@@ -3,7 +3,7 @@
 /**
  * check_cycle - check if singly linked list has cycle in it
  * @list: pointer to beginning of node
- * Retuen: 1 if the list has a cycle, 0 if it doesn't
+ * Retuen: 0: no cycle, 1: ther is a cycle
  */
 int check_cycle(listint_t *list)
 {
