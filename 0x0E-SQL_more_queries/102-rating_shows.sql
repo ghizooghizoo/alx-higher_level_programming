@@ -1,0 +1,2 @@
+-- Lists all shows hbtn_0d_tvshows_rate by their rating.
+-- Records are ordered by descending rating.
